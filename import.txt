@@ -1,0 +1,5 @@
+STARLABPREFIX
+
+Open VS2012 x64 Native Tools Command Prompt
+
+qmake -tp vc FAT.pro -recursive
